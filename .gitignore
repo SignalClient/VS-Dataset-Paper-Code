@@ -1,0 +1,22 @@
+# 数据文件
+*.mat
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据集文件夹
+VITALSENSE_120_DATASET/
+ECG_24_subjects_png/
+
+# 检查图片
+*.check.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
